@@ -122,4 +122,5 @@ CHB-MIT Scalp EEG Dataset
 ## Authors
 
 Jana Ramzi Ali, Shafaa Omer Al-Baiti, Ayesha Siddiqua, Nadia Mohamed Elsayed
+
 Supervised by: Prof. Abbes Amira and Co-supervised by: Dr. Ayad Turky
